@@ -35,3 +35,6 @@ venv\Scripts\activate     # Windows
 ```bash
 pip install -r requirements.txt
 ```
+
+
+북마크도 눌렀다가 취소하면 팝업창에서 북마크 안되어있음이라 뜨게 수정하였습니다.
